@@ -1,0 +1,1 @@
+# Power-set-And-Truth-Table-Generator-in-JAVA
